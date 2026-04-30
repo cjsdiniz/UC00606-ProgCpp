@@ -17,4 +17,4 @@ Faz commit de todas as alterações pendentes e push para o repositório remoto 
 
 - Se `$ARGUMENTS` contiver uma mensagem de commit, usa-a directamente sem pedir ao utilizador.
 - Usa sempre `https://` como protocolo (não SSH), pois este projecto está configurado com HTTPS.
-- O repositório remoto é `https://github.com/cjsdiniz/UC00606-ProgC--`.
+- O repositório remoto é `https://github.com/cjsdiniz/UC00606-ProgC++`.
