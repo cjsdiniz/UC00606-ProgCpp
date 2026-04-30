@@ -12,5 +12,7 @@ build/
 .DS_Store
 Thumbs.db
 
-# Claude Code
-.claude/
+# Claude Code — ignorar ficheiros locais mas versionar comandos do projecto
+.claude/settings.local.json
+.claude/todos/
+.claude/memory/
